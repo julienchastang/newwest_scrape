@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<link rel="stylesheet" href="/css/print.css" type="text/css" />
+<title> Weathermole.com: The Making of a Mashup, Part 1 | New West Network</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /></meta>
+<meta name="ROBOTS" CONTENT="NOINDEX,NOFOLLOW"></meta>
+</head>
+
+<body>
+	<!-- Begin Article-->
+	
+	<div class="section_print">
+		<a href="http://www.newwest.net/"><img src="http://www.newwest.net/images/banners/print_friendly_logo.jpg" border="0" style="margin-bottom:40px"></a>
+					<h4>Fun With Google Maps</h4>
+		
+		<h1>Weathermole.com: The Making of a Mashup, Part 1</h1>
+		<h2><i></i></h2>
+		<div class="text-feature_print">
+							<p>By Jenny Shank, 5-16-06</p>
+			
+							<table width="25" align="right" cellspacing="0" cellpadding="0" border="0">
+					<tr>
+						<td>&nbsp;</td>
+						<td><img src="http://www.newwest.net/images/thumbnails_feature/molegmm.JPG" class="thumbnail-feature" border="0" align="right" width="263" height="213" /></td>
+					</tr>
+					<tr><td><img src="http://www.newwest.net/images/spacer.gif" width="1" height="3" border="0" /></td></tr>
+
+					
+					<tr><td><img src="http://www.newwest.net/images/spacer.gif" width="1" height="3" border="0" /></td></tr>
+				</table>
+			
+							One year when my husband and I went hiking at the <a target="_blank" href="http://www.fs.fed.us/r2/arnf/" title="Pawnee Grasslands">Pawnee Grasslands</a> in northeastern Colorado, we happened across the annual camping event of the state's <a target="_blank" href="http://www.sca.org/" title="Society for Creative Anachronism">Society for Creative Anachronism</a>, a group of people who gather to don medieval clothing, stage jousts, recite lyric poetry, and otherwise bring a little bit of the Renaissance fair into their everyday lives.  As we watched a group of men dressed in battle gear prepare to bludgeon each other with fake clubs, shields and swords, we chatted with some SCA members.  "So," my husband asked a woman dressed as a lady-in-waiting, "Are most of you computer programmers?"<br />
+<br />
+The woman admitted that most of them toiled in some computer-related field when they weren't eating enormous turkey drumsticks, but my husband's remark wasn't a slam—it was merely recognition of his peer group.  He's a software engineer, too.  I don't know much about computers myself—it always used to terrify me in the days before desktop icons were common when I was confronted with a DOS prompt or other evidence of the computer's brains.  In the past few months, however, I've learned a lot as I watched my husband create and launch his own <a target="_blank" href="http://maps.google.com/" title="Google Maps">Google Maps</a> and <a target="_blank" href="http://www.nws.noaa.gov/" title="National Weather Service">National Weather Service</a> mashup, <a target="_blank" href="http://www.weathermole.com" title="WeatherMole.com">WeatherMole.com</a>.<br />
+<br />
+<b>Google Maps Lust</b><br />
+<br />
+According to my sources in the geek community, the launch of Google Maps about a year ago generated a lot of excitement, largely because Google made its technology available for people to combine, or “mashup” with other technologies in an open-source spirit.  The Google Maps mashup craze began when creative hackers across the country began combining the data from Google Maps with other data sources that interested them—for example <a target="_blank" href="http://www.housingmaps.com" title="http://www.housingmaps.com">http://www.housingmaps.com</a>, which combines <a target="_blank" href="http://www.craigslist.org/" title="Craig’s List">Craig’s List</a> housing listings with Google Maps.  Google Maps mashups became a part of the excitement of Web 2.0 applications that has been bubbling up for a while now.<br />
+<br />
+My husband was determined to join in the fun, but first he had to cook up a new idea.  After a few months of perusing other people's mashups, he came up with an idea to combine data from the National Weather Service with Google Maps, which would allow people to get a pinpoint 5-day forecast for any location that they clicked on in a map of the continental U.S. and Hawaii.  The National Weather Service was at the vanguard of provding publicly-available, free web services that could be used in this way, and my husband decided to make use of this.<br />
+<br />
+<b>Researching the Competition</b><br />
+<br />
+We first had to check out all the other weather sites that were available to determine what his website could offer that would be different.  Perhaps the best-known weather site is Weather.com, the internet arm of the Weather Channel.  I find Weather.com to be migraine-inducingly busy.  There are maps and icons and advertisements and shining suns and crap everywhere.  The first place it's possible to enter a city is not in a weather search mechanism, but in a search box that generates pollen-alert levels, no doubt sponsored by some allergy medication.  Some of my friends have told me that Weather.com actually crashes their computers because it contains so many items to load.  Many of the other weather websites we looked at were equally guilty of eye-overload.  So my husband decided that he would try to emphasize simplicity and clarity with his website. <br />
+<br />
+<b>Preparing the Website</b><br />
+<br />
+Once my husband had his idea, he began to come home every night after a long day of computing and compute some more.  I'd never seen him so happy as he merrily worked on his weather site.  Occasionally he'd report some tribulation he was facing with his code, but after he'd ruminate on it for a while, he always figured out how to get past it.  I imagine the other mashup creators are just as content, typing away at their computers night after night to create something new for the sheer joy of it.  <br />
+<br />
+The process reminded me of my own way of writing—getting an idea, writing a draft, deciding it was crap, rewriting.  The advantage that computer code writers have over prose writers, though, is that when they're done with their draft they can run it to see if it works, whereas the best we old-fashioned writers can do is try to get some feedback to give ourselves a more accurate picture of whether a piece is working or not.<br />
+<br />
+<b>WeatherMole.com is Born</b><br />
+<br />
+Soon my husband reached a point where he needed to come up with a name for the site and register its domain.  I helped him brainstorm on some ideas, and we quickly discovered that most names are already taken.  Your name is probably taken—try it, it's probably being used as a front for some sort of internet gambling operation.  Even if there isn't a functioning site with a given name, there's someone out there who is sitting on the name with the intent to either use it or sell it.  We decided that the site should have the word "weather" in the name, and we wanted a .com ending.  We wanted it to be snappy, something to go along with the catch phrase that I'd come up for the site: "No fuss, just weather."  We tried WeatherMonkey.com, WeatherFox.com, WeatherClick.com, WeatherPoint.com, and dozens more to no avail, as all were spoken for.  We finally hit on a few that worked, such as Weatherella.com, and the one my husband settled on, <a target="_blank" href="http://www.weathermole.com" title="WeatherMole.com">WeatherMole.com</a>.<br />
+<br />
+He registered the domain name, signed up for a static IP, and ordered a Mac Mini to serve as the hub for WeatherMole.  Because of space constraints in our condo, the Mac Mini that is WeatherMole's brain lives under our bed.  I don't mind so much—it just makes the Mac feel like part of our family, the pet dog that we don't have.<br />
+<br />
+I proofread my husband's website, caught a few grammatical errors, and suggested some changes, such as moving the map up a little higher so that people could see the weather prediction at the bottom of the page when it appeared without having to scroll down.  We showed the prototype to some of our relatives and friends, who were very enthusiastic—they, too, chafed from years of dealing with hyperactive weather sites.  They just wanted their weather straight-up.  <br />
+<br />
+I also discovered just how much people love finding out what the weather will be where they are and where the people they love are.  The first town my aunt suggested WeatherMoling was Holdrege, Nebraska, where one of her daughters lives.  The bulk of many of my long-distance conversations with my parents when I was away at college consisted of their reports of what the weather was like in Denver and my reports of what the weather was like in South Bend.  But far from being impersonal, I think that talking about the weather is what people do to express that they care enough about each other to want to keep talking, but they just don't know what to say.<br />
+<br />
+<a target="_blank" href="http://www.weathermole.com" title="WeatherMole.com">WeatherMole.com</a> was ready to go, and after a few more days of tinkering, it was time to launch the site.<br />
+<br />
+<i>Tomorrow: Weathermole.com launches, the impact of del.icio.us, and the joy of earning five stars from the Programmable Web.</i><br />
+
+						<b>[End of article]</b>
+		</div>
+
+		<!-- Begin Comments -->
+		
+		<b>Comment By freeloader, 5-18-06</b>
+		<p>any chance the code will be released ?</p>
+		
+		<b>Comment By Jenny Shank, 5-19-06</b>
+		<p>Julien isn't planning to make the code public at this time.</p>
+		
+		<b>Comment By Sergiy Dagayev, 5-23-06</b>
+		<p>I use the same weather webservice for my website <a href="http://www.newwest.net/?URL=http%3A%2F%2FmarabouTime.com">http://marabouTime.com</a>. I just like to suggest to make day and night forecast one above another day by day - it will be more readable.</p>
+		
+		<!-- End Comments -->
+
+		<b>This article was printed from www.newwest.net at the following URL:</b> 
+
+		<a href="http://www.newwest.net/main/article/weathermolecom_the_making_of_a_mashup_part_1/">http://www.newwest.net/main/article/weathermolecom_the_making_of_a_mashup_part_1/</a>
+
+	
+	</div> <!-- section print -->
+
+	<div class="footer" align="center" style="border-top:1px solid #000000; margin-top:30px; ">
+		&copy; 2007 NewWest, All Rights Reserved
+		<br />
+		Use of this site is subject to New West's <a href="http://www.newwest.net/plain/entry/terms_of_service/">Terms of Service</a> and <a href="http://www.newwest.net/plain/entry/privacy_policy/">Privacy Policy</a>.
+	</div>
+</body>
+</html>

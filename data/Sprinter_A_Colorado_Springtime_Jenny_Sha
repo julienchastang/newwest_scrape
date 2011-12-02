@@ -1,0 +1,639 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<!--  BEGIN GOOGLE AD MANAGER INIT -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-7692672406890599");
+  GS_googleEnableAllServices();
+</script>
+<script language="JavaScript">
+	GA_googleAddAttr("Topic", "nogroup");
+</script>
+<script type="text/javascript">
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Banner2_BTF_Center_468x60");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Banner3_BTF_Center_468x60");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Banner_ATF_Center_468x60");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_HalfBanner_ATF_TopRight_234x60");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_HalfPage_BTF_Right_300x600");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_LgSquare2_BTF_Right_300x250");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_LgSquare3_BTF_Right_300x250");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_LgSquare_ATF_Right_300x250");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Skyscraper2_BTF_Left_160x600");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Skyscraper_BTF_Left_160x600");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Vertical2_BTF_Left_160x300");
+	GA_googleAddSlot("ca-pub-7692672406890599", "NewWest_nogroup_Vertical_ATF_Left_160x300");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!--  END GOOGLE AD MANAGER INIT -->
+
+<script language="JavaScript" type="text/javascript" src="/js/ufo.js"></script>
+<script src="/scripts/jquery-1.2.6.pack.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/jquery.corner.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/jqueryCommands.js" type="text/javascript" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript" src="/js/default.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/SpryTabbedPanels.js"></script>
+<link rel="stylesheet" href="/css/front_page_20101209.css" type="text/css" />
+<link rel="stylesheet" href="/css/SpryTabbedPanels.css" type="text/css" />
+<link rel="stylesheet" href="http://www.lijit.com/files/branding-images/lwp_hide.css" type="text/css">
+<script language="JavaScript" type="text/javascript" src="http://www.lijit.com/files/branding-images/lwp_hide.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.lijit.com/informers/wijits?username=newwest&js=1"></script>
+<link rel="shortcut icon" href="http://www.newwest.net/favicon.ico" />
+
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen" title="IE 6 Style" charset="utf-8">
+<style type="text/css" media="screen">
+	#right-side {
+		position:relative;
+		right:5px;
+	}
+</style>
+<![endif]-->
+
+<!--[if lte IE 7]>
+
+<style type="text/css">
+div#bottom-nav ul {
+	left: 195px;
+}
+</style>
+
+<![endif]-->
+
+<!-- this script clears the search box of its default text -->
+<script type="text/javascript" language="javascript">
+<!--
+function clearSearch(theText) {
+if (theText.value == theText.defaultValue) {
+theText.value = "";
+}
+}
+// -->
+</script>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8"></meta>
+<meta name="description" content="New West is a network of online communities devoted to the culture, economy, politics, environment and overall atmosphere of the Rocky Mountain West. In a time of dramatic change, New West aims to serve as a nexus of dialogue and a smart guide to the issues that are affecting one of the greatest places on Earth."></meta>
+
+<title>Sprinter: A Colorado Springtime | Jenny Shank | NewWest.Net</title>
+</head>
+
+<body>
+<div id="wrapper">
+<a name="top"></a>
+
+	<!-- Header -->
+		<div id="header" style="background-image: url(/images/banners/bannerC.jpg)">
+			<div id="header-advert">
+			<script type="text/javascript">
+				GA_googleFillSlot("NewWest_nogroup_HalfBanner_ATF_TopRight_234x60");
+			</script>
+		</div>
+	</div>
+
+	<!-- Global Nav -->
+	<div id="top-nav">
+         <ul id="top-login">
+		<li id="top1"><a href="http://www.newwest.net/">Front Page</a></li>
+		<li id="top2"><a href="http://www.newwest.net/plain/entry/13/">About Us</a></li>
+		<li id="top9"><a href="http://www.newweststudio.com/">New West Studio</a></li>
+		<li id="top3"><a href="http://www.newwest.net/plain/contact/16/">Contact Us</a></li>
+		<li id="top4"><a href="http://www.newwest.net/plain/entry/14/">Advertise</a></li>
+		<li id="top5"><a href="http://www.newwest.net/newsletter/signup/">Newsletters</a></li>
+		<li id="top6"><a href="http://www.newwest.net/plain/entry/32/">Feeds</a></li>
+
+         		<li id="top7"><a href="http://www.newwest.net/main/login/">Log In</a></li>
+         		<li id="top8" class="button-link rss-link"><a href="http://feeds.feedburner.com/newwest/main">Feed</a></li>
+		<li class="button-link facebook-link"><a href="http://www.newwest.net/facebook">Facebook</a></li>
+		<li class="button-link twitter-link"><a href="http://www.newwest.net/twitter">Twitter</a></li>
+
+        <div class="nav-clear"></div>
+	</ul>
+</div>
+	<div id="container">
+
+		<div id="left-col">
+<div class="nav-menu">
+<h2 class="top">NEW WEST TOPICS</h2>
+<ul>
+<li><a href="http://www.newwest.net/">Front Page</a></li>
+<li><a href="http://www.newwest.net/outdoors/">Travel & Outdoors</a></li>
+<li><a href="http://www.newwest.net/politics/">Politics</a></li>
+<li><a href="http://www.newwest.net/energy/">Energy</a></li>
+<li><a href="http://www.newwest.net/agriculture/">Food &amp; Agriculture</a></li>
+<li><a href="http://www.newwest.net/development/">Development</a></li>
+<li><a href="http://www.newwest.net/books/">Books</a></li>
+<li><a href="http://www.newwest.net/adventure/">Adventure Rockies</a></li>
+
+<li><a href="http://www.newwest.net/blog/">New West Blog</a></li>
+<li><a href="http://www.newwest.net/bloggers/">Community Blogs</a></li>
+<li><a href="http://www.newwest.net/gallery/">Gallery</a></li>
+<li><a href="http://www.newwest.net/conferences/">Conferences</a></li>
+<!--
+<li class="mid_heading"><h2>NEW WEST LOCAL</h2></li>
+<li><a href="http://www.newwest.net/missoula/">Missoula</a></li>
+<li><a href="http://www.newwest.net/bozeman/">Bozeman</a></li>
+<li><a href="http://www.newwest.net/boise/">Boise</a></li>
+-->
+</ul>
+<div class="yellowbottomround160"></div>
+</div>
+
+			<!-- Begin Vertical Ad -->
+			<div class="left-ad">
+				<script type="text/javascript">
+					GA_googleFillSlot("NewWest_nogroup_Vertical_ATF_Left_160x300");
+				</script>
+			</div>
+			<!-- End Vertical Ad  -->
+<div align="center">
+<script src="http://nmp.newsgator.com/NGBuzz/Buzz.ashx?buzzId=105244&apiToken=EDEBBF5D85BC47B180A0C7A4E365BBF5" type="text/javascript" language="javascript"></script>
+</div>
+<br/>
+<!--
+			<div class="nav-menu">
+				<h2>MEDIA PARTNERS</h2>
+				<ul>
+					<li><a target="_blank" href="http://www.flatheadbeacon.com/">Flathead Beacon</a></li>
+					<li><a target="_blank" href="http://crosscut.com/">Crosscut Seattle</a></li>
+					<li><a target="_blank" href="http://www.sunvalleyonline.com/">SunValleyOnline</a></li>
+					<li><a target="_blank" href="http://www.headwatersnews.org/">Headwaters News</a></li>
+					<li><a target="_blank" href="http://www.hcn.org/">High Country News</a></li>
+					<li><a target="_blank" href="http://www.kunc.org/">KUNC Radio 91.5</a></li>
+					<li><a target="_blank" href="http://www.dailyyonder.com/">Daily Yonder</a></li>
+					<li><a target="_blank" href="http://www.wyofile.com/">WyoFile</a></li>
+				</ul>
+				<div class="yellowbottomround160"></div>
+			</div>
+-->
+
+			<!-- Begin Skyscraper Ad -->
+			<div class="leftbox">
+				<script type="text/javascript">
+					GA_googleFillSlot("NewWest_nogroup_Skyscraper_BTF_Left_160x600");
+				</script>
+			</div>
+			<!-- End Skyscraper Ad  -->
+
+
+		</div>
+		<!-- Begin Center Article Well -->
+		<div id="content">
+                  <div class="top-cap-article"><!-- IE 6 --></div>	
+			<!-- Begin article -->
+			                       
+			
+
+                        <div class="article">
+				<h4>Spring Fever</h4>
+				<h2>Sprinter: A Colorado Springtime</h2>
+				                                
+                                <br />
+				
+				<p>
+											By Jenny Shank, 3-07-06
+									</p>
+
+									<table width="25" align="right" cellspacing="0" cellpadding="0" border="0">
+						<tr>
+							<td>&nbsp;</td>
+
+															<td><img src="http://www.newwest.net/images/thumbnails/pansies_thumb.jpg" class="thumbnail" border="0" align="right" width="150" height="133" /></td>
+							
+						</tr>
+					<tr><td><img src="http://www.newwest.net/images/spacer.gif" width="1" height="3" border="0" /></td></tr>
+					<tr>
+					<td>&nbsp;</td>
+					<td class="image-caption" align="right">Photo courtesy of <a href=" http://www.stitchesofviolet.blogspot.com" title="stitchesofviolet.blogspot.com">stitchesofviolet.blogspot.com</a></td>
+					</tr>
+					<tr><td><img src="http://www.newwest.net/images/spacer.gif" width="1" height="3" border="0" /></td></tr>
+					</table>
+
+					<p>There are still two weeks before spring begins, technically, but with highs of 70 degrees yesterday and today, I felt the restlessness to get outside and start planting flowers that I always associate with the advent of spring.  But I've lived in Colorado all of my life and I should know better by now: Colorado doesn't really have springs.  Instead it has this teasing interlude between February and June, a bipolar alternation between winter and summer temperatures, and we get a lot of our snow in March and April.  We shouldn't call it spring.  We should call it something else—maybe sprinter, as in "My this is a confusing sprinter we've been having."  Sure enough, snow is predicted for tonight and tomorrow.  <br />
+<br />
+Still, I see the sun setting later, the temperatures climbing higher, and yesterday on the Hill near CU campus, a girl in a mini skirt—and I think spring.  I'm not the only sucker, though: Every year my irises fall for the old bait and switch, sending out buds during a warm stretch that suffer frostbite as soon as the snow dumps, as it inevitably does.  On Boulder's Pearl Street Mall, the town celebrates a "Tulip Festival" in early April, and often as not on the big day they end up with hundreds of tulips decapitated by a storm, their petals scattered on the bricks.<br />
+<br />
+I know I shouldn't trust the weather on a day-to-day basis, and yet, yesterday after working all day in my dim, cave-like office that has no windows, when I came home I felt like puttering around in the small plot of dirt outside my condo where I plant my flowers.  The crocuses are up in merry shades of yellow and violet—the poor saps.  They don't know that tonight is probably their last, given the impending storm.  <br />
+<br />
+I still felt like planting something, and I thought <i>pansies</i>, the one flower that is relatively safe to plant in Colorado, as it can endure cold temperatures, and seems to bounce back okay after being flattened by snowfall.  Pansies aren't my favorite flower—a friend once told me that she didn't like pansies because they all wear little black Hitler moustaches, an image I have never been able to shake.  My husband doesn't like the name "pansy"—so we use the flower's French name, <i>pensée</i>, a much nicer word that means "thought."<br />
+<br />
+But who am I kidding?  It's the first week in March, too early for flowers.  I contented myself with merely clearing up the debris in the flower patch, gathering up leaves and twigs and junk blown in by the wind.  I should hold off on the pansies for a few more weeks, and just sit tight and sip some hot cider or lemonade, depending on what temperature it happens to be that day.<br />
+</p>
+				
+				<br /><br />
+				<p>Like this story? Get more! <a href="http://www.newwest.net/newsletter/signup/">Sign up for our free newsletters</a>.</p>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">addthis_pub  = 'ewitch';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+
+				<!-- Begin Article Footer -->
+				<div class="article-footer">
+											By <a href="http://www.newwest.net/main/author/jlowercase/">Jenny Shank</a>, 					 3-07-06 |
+ 
+											<a href="http://www.newwest.net/topic/article/sprinter_a_colorado_springt/#comments">comments (1)</a> | 
+										<a href="http://www.newwest.net/topic/tell_a_friend/6784/">email story</a>  | 
+					<a href="http://www.newwest.net/main/print/6784/">print story</a>
+
+					<script language='JavaScript' type='text/javascript'>
+						<!--
+						   if (!document.phpAds_used) document.phpAds_used = ',';
+						   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+						   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+						   document.write ("http://www.newwest.net/pan/adjs.php?n=" + phpAds_random);
+						   document.write ("&amp;what=jlowercase,_Author_tracker&amp;block=1&amp;blockcampaign=1");
+						   document.write ("&amp;exclude=" + document.phpAds_used);
+						   if (document.referrer)
+							  document.write ("&amp;referer=" + escape(document.referrer));
+						   document.write ("'><" + "/script>");
+						//-->
+					</script><noscript><a href='http://www.newwest.net/pan/adclick.php?n=a14b211q' target='_blank'><img src='http://www.newwest.net/pan/adview.php?what=jlowercase,_Author_tracker&amp;n=a14b211q' border='0' alt='' /></a></noscript>				
+				</div>
+			</div>
+			
+<div class="bottom-cap-article"><!-- IE 6 --></div>
+
+<div class="spacer" style="height:10px;"></div>
+
+
+			<div class="content-box">
+				<h3>NEW WEST FEATURES
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="http://www.newwest.net/features/">More&gt;&gt;</a></h3>
+				<div class="feature-content-area">
+										
+						              
+                                                 <div class="feature-item">
+							
+															<a href="http://www.newwest.net/topic/article/work_begins_to_tap_huge_mineral_deposits_in_idaho/C35/L35/"><img src="/images/articles/cache/Highway21-100x100.jpg" width="100" height="100"  alt="Highway 21 runs between Boise and Idaho City, alongside the Boise River, a watershed that could be affected by molybdenum mining. Photo by Peg Owen, Idaho Tourism." /></a>
+														<div class="spacer"></div>
+							<a class="head" href="http://www.newwest.net/topic/article/work_begins_to_tap_huge_mineral_deposits_in_idaho/C35/L35/">Work Begins to Tap Huge Mineral Deposits in Idaho</a><p></p>
+							<div class="byline">By New West Editor</div>
+						</div>
+											
+						              
+                                                 <div class="feature-item">
+							
+															<a href="http://www.newwest.net/topic/article/if_denver_wants_winter_olympics_it_will_have_to_show_the_money/C35/L35/"><img src="/images/articles/cache/WinterOlympicsSLC-100x100.jpg" width="100" height="100"  alt="Men's Super G event during the Salt Lake City Winter Games at Snowbasin, Utah, in 2002. Photo by Ken Lund, Flickr." /></a>
+														<div class="spacer"></div>
+							<a class="head" href="http://www.newwest.net/topic/article/if_denver_wants_winter_olympics_it_will_have_to_show_the_money/C35/L35/">If Denver Wants Winter Olympics, It Will Have to Show the Money</a><p></p>
+							<div class="byline">By New West Editor</div>
+						</div>
+											
+						              
+                                                 <div class="feature-item">
+							
+															<a href="http://www.newwest.net/topic/article/montana_deer_hunting_hit_hard_by_disease/C41/L41/"><img src="/images/articles/cache/whitetaileddeer-100x100.jpg" width="100" height="100"  alt="White-tailed deer. Photo courtesy of U.S. Fish & Wildlife Service." /></a>
+														<div class="spacer"></div>
+							<a class="head" href="http://www.newwest.net/topic/article/montana_deer_hunting_hit_hard_by_disease/C41/L41/">Montana Deer Hunting Hit Hard by Disease</a><p></p>
+							<div class="byline">By Kate Schwab</div>
+						</div>
+											
+						              
+                                                 <div class="feature-item">
+							
+															<a href="http://www.newwest.net/topic/article/grizzly_shooting_charges_elicit_outrage_in_idaho/C41/L41/"><img src="/images/articles/cache/Grizzly-100x100.jpg" width="100" height="100"  alt="Grizzly bear. Photo courtesy U.S. Fish and Wildlife Service." /></a>
+														<div class="spacer"></div>
+							<a class="head" href="http://www.newwest.net/topic/article/grizzly_shooting_charges_elicit_outrage_in_idaho/C41/L41/">Grizzly Shooting Charges Elicit Outrage in Idaho</a><p></p>
+							<div class="byline">By New West Editor</div>
+						</div>
+											
+					
+				<div class="spacer"></div>
+				</div>
+				<div class="bottom-cap"></div>
+			</div> <!-- content box -->
+			<!-- End New West Features -->
+
+
+<div class="spacer" style="height:10px;"></div>
+
+			<!-- Begin Advert Banner Body Center -->
+			<h5 class="h5-advert">Advertisement</h5>
+			<div class="content-advert">
+				<script type="text/javascript">
+					GA_googleFillSlot("NewWest_nogroup_Banner_ATF_Center_468x60");
+				</script>
+			</div>
+			<!-- End Advert Banner Body Center -->
+
+			<!-- Begin Google ad -->
+			<div class="content-advert">
+				<script type="text/javascript"><!--
+				google_ad_client = "pub-7692672406890599";
+				google_ad_width = 468;
+				google_ad_height = 60;
+				google_ad_format = "468x60_as";
+				google_ad_type = "text_image";
+				google_ad_channel ="";
+				google_color_border = "FFFFFF";
+				google_color_bg = "FFFFFF";
+				google_color_link = "0000FF";
+				google_color_text = "000000";
+				google_color_url = "008000";
+				//--></script>
+				<script type="text/javascript"
+				  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			</div>
+			<!-- End Google ad -->
+
+			<!-- Begin Comments -->
+                  <div class="top-cap-article"><!-- IE 6 --></div>
+			<div class="comment">
+				<a name="comments"></a>
+				<h3 style="padding-left:5px;">Comments</h3>
+				
+					<p style="padding-left:5px;">Be the first to comment on this article. Please complete the form below.</p>
+				
+<br/>
+			</div> <!-- comment -->
+<div class="bottom-cap-article"><!-- IE 6 --></div>
+
+			<!-- End Comments -->
+
+			<!-- Begin Comment Form -->
+			<div class="comment_form">
+				<form id='comment_form' method="post" action="http://www.newwest.net/main/article/sprinter_a_colorado_springt/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="1" />
+<input type="hidden" name="RET" value="http://www.newwest.net/main/article/sprinter_a_colorado_springt/" />
+<input type="hidden" name="URI" value="/main/article/sprinter_a_colorado_springt/" />
+<input type="hidden" name="PRV" value="" />
+<input type="hidden" name="XID" value="907d49bc309361ff0a6cf67e6dec5983c8b05430" />
+<input type="hidden" name="entry_id" value="6784" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+				<h3>Your Comment</h3>
+
+<p style="font-size:10px"><em>Comment policy:</em></p>
+
+<p style="font-size:10px"><em>NewWest.Net encourages robust and lively, <strong>but civil</strong> participation from our readers. By posting here, you agree to the NewWest.Net <a target="blank" href="http://www.newwest.net/plain/entry/terms_of_service/">terms of service</a>. You agree to keep your comments on topic, respectful and free of gratuitous profanity. Contributions that engage in personal attacks, racism, sexism, bigotry, hatred or are otherwise patently offensive will be subject to removal.</em></p>
+ 
+<p style="font-size:10px"><em>Other than using a filter that scans for comment spam, we do not moderate contributions before they are posted and we do not review every thread, so we ask that you help us in keeping the discussions civil and appropriate. Please email <a href="mailto:info@newwest.net">info@newwest.net</a> to notify us of comments that may violate these guidelines. Thanks for your help and cooperation. Click <a target="blank" href="http://www.newwest.net/plain/entry/20476">here for some tips on how to best interact</a> on NewWest.Net.</em></p>
+
+									<p style="font-size:12px"><strong>You must be a registered user to submit comments, if you are not, <a href="/member/register">register here</a> for free.</strong></p>
+					<br />
+					<p>Name</p>
+					<p><input type="text" name="name" value="" size="50" /></p>
+					<p>Email</p>
+					<p><input type="text" name="email" value="" size="50" /></p>
+								<p><textarea name="comment" cols="50" rows="10"></textarea></p>
+				<p><input type="checkbox" name="save_info" value="yes"  /> Remember my name and email address.</p>
+				<p><input type="checkbox" name="notify_me" value="yes"  /> Notify me of follow-up comments.</p>
+				<input type="submit" class="submit" name="submit" value="Submit Your Comment" />
+				<input type="hidden" name="RET" value="http://www.newwest.net/topic/article/sprinter_a_colorado_springt/#comments" />
+				</form>
+			</div> <!-- comment form -->
+
+			<!-- End Comment Form -->
+
+
+
+			<h5 class="h5-advert">Advertisement</h5>
+			<div class="content-advert">
+				<script type="text/javascript">
+					GA_googleFillSlot("NewWest_nogroup_Banner2_BTF_Center_468x60");
+				</script>
+			</div>
+		</div> 	<!-- content -->
+
+	<div id="right-side">
+			<div id="right-side">
+		<div class="search-bar-top search">
+		<form method="post" action="http://www.newwest.net/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="15" />
+<input type="hidden" name="XID" value="87afaa72f79ce15a208c9dea3eae82ec01cf490a" />
+<input type="hidden" name="RP" value="search/results" />
+<input type="hidden" name="NRP" value="" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="not Draft|Closed" />
+<input type="hidden" name="weblog" value="articles" />
+<input type="hidden" name="search_in" value="everywhere" />
+<input type="hidden" name="where" value="all" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+	<input type="text" name="keywords" id="keywords" class="textfield" value="" size="18" maxlength="100" />
+	<input type="submit" value="submit" class="submit" />
+</form>
+		</div>
+<div class="spacer" style="height:10px;">
+</div>
+
+		<div id="fwixBadge" style="margin: 0px 0px 0px 24px;">
+		<a target="_blank" href="http://fwix.com" fx:size="wide" fx:apikey="znewwest" fx:url="" fx:lat="" fx:lng="" fx:postcode="">Fwix</a>
+<script type="text/javascript" src="http://fwix.com/tools/geotagger/geotagger.js"></script>
+</div>
+
+		<div class="col_right_ad_square">
+			<script type="text/javascript">
+				GA_googleFillSlot("NewWest_nogroup_LgSquare_ATF_Right_300x250");
+			</script>
+		</div>
+
+<div style="margin:10px 0px 10px 10px;">
+<div class="topround330"><!-- IE 6 --></div>
+<div style="background-color:#FFFFFF;width:328px;border-left: 1px solid #6C6B59;border-right: 1px solid #6C6B59;">
+<div style="color: #000000; font-size: 18px; margin-bottom: 5px; font-weight: bolder; padding-left:5px;padding-right:5px;">More <a href="http://www.newwest.net/topic/main/"></a> stories</div>
+<div style="margin-left:20px; font-size: 12px; padding-left:5px;padding-right:5px;">
+<ul>
+
+
+  
+<li><p><b>
+<a href="http://www.newwest.net/topic/article/wolf_hunts_morally_corrupt/C564/L564/">Wolf Hunts Morally Corrupt</a>
+</b></p></li> 
+  
+<li><p><b>
+<a href="http://www.newwest.net/topic/article/colorado_anglers_riled_by_christos_art_proposal/C41/L41/">Colorado Anglers Riled By Christo&#8217;s Art Proposal</a>
+</b></p></li> 
+  
+<li><p><b>
+<a href="http://www.newwest.net/adventure/article/twilight_on_the_middle_fork/C620/L41/">Twilight on the Middle Fork</a>
+</b></p></li> 
+  
+<li><p><b>
+<a href="http://www.newwest.net/topic/article/work_begins_to_tap_huge_mineral_deposits_in_idaho/C35/L35/">Work Begins to Tap Huge Mineral Deposits in Idaho</a>
+</b></p></li> 
+  
+<li><p><b>
+<a href="http://www.newwest.net/main/article/morning_meteors_of_the_perseid_kind_by_michael_menefree_colorado/">&#8220;Morning Meteors of the Perseid Kind&#8221; by Michael Menefree, Colorado</a>
+</b></p></li> 
+
+
+
+<br/>
+</ul>
+</div>
+</div>
+<div class="bottomround330"></div>
+</div>
+
+<!-- NEW WEST FESTIVAL WIDGET
+<div class="fest_widget">
+	<div class="fest_topcap"></div>
+		<h2>New West Festival Watch</h2>
+		<div class="subtitle">May 5th &amp; 6th • Missoula, MT</div>
+	<div class="fest_widget_content">
+		<h3>Who Should Attend</h3>
+<br>
+ 
+<h4>The Festival has something for everyone!</h4> 
+<p>Do you want a better grip on how to use social tools like Facebook and Twitter?
+Would you like to know a few practical steps to reducing your carbon footprint?
+Are you interested in the local sustainable food movement?
+Do you love the Farmer's Market and appreciate small sustainable farmers?
+Do you have a business idea you want to explore?
+Would you like to rub elbows with fellow entrepreneurs?</p>
+<br>
+<p>If yes to any of the above, the Festival is for you!  Visit the <a href="http://www.newwest.net/festival/" target="_blank" title="New West Festival 2011 Rise of the Rockies">site</a> to read up on the speakers - bios, sneak peeks, it's all there!</p>
+<br>
+-------------------------------------------------------------<br>
+		<p>Good News Everyone! The inaugural <i>New West Festival</i> is now even better with the addition of <strong>continuing education credits</strong>!</p>
+		<ul>
+			<li><a href="http://www.newwest.net/festival/continuing-education/" target="_blank" title="New West Festival Continuing Education">Educators:</a> 6 Renewal Units</li>
+			<li><a href="http://www.newwest.net/festival/continuing-education/" target="_blank" title="New West Festival Continuing Education">Planners:</a> 4 Maintenance Credits</li>
+			<li><a href="http://www.newwest.net/festival/continuing-education/" target="_blank" title="New West Festival Continuing Education">Real Estate Professionals:</a> 2 Continuing Education Credits</li>
+		</ul>
+		<div class="more"><a href="http://www.newwest.net/festival/" target="_blank" title="New West Festival: Rise of the Rockies">[Click here for more Festival info!]</a></div>
+	</div>		
+	<div class="bottomround330 clear"></div>
+</div>
+END NEW WEST FESTIVAL WIDGET -->
+
+		<div class="col_right_ad_square">
+			<script type="text/javascript">
+				GA_googleFillSlot("NewWest_nogroup_LgSquare2_BTF_Right_300x250");
+			</script>
+		</div>
+
+
+
+
+		<div class="col_right_ad_halfpage">
+			<script type="text/javascript">
+				GA_googleFillSlot("NewWest_nogroup_HalfPage_BTF_Right_300x600");
+			</script>
+		</div>
+
+	
+		<div class="spacer">&nbsp;</div>
+
+	<div id="nw_marketplace">
+            <h4>Marketplace</h4>
+            <div class="smartzone">
+                <!-- zoneA --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j02j"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneB --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j1rf"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneC --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j1rg"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneD --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j1rh"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneE --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j1ri"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneF --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j1rj"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneG --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j37e"> </SCRIPT>
+            </div>
+            <div class="smartzone">
+                <!-- zoneH --><SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-j37g"> </SCRIPT>
+            </div>
+            <div class="spacer">&nbsp;</div>
+        </div>
+
+
+
+		<div style="text-align:center; margin-bottom: 10px;">
+			<script type="text/javascript">
+				GA_googleFillSlot("NewWest_nogroup_LgSquare3_BTF_Right_300x250");
+			</script>
+		</div>
+
+	</div> <!-- right side -->
+
+	</div>
+
+			<div class="spacer"></div>
+		<div id="search-space-bottom">
+			<div class="search-bar-bottom right search">
+			<form method="post" action="http://www.newwest.net/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="15" />
+<input type="hidden" name="XID" value="00c603a31486f17d35c040f8f37c2d1138d765ab" />
+<input type="hidden" name="RP" value="search/results" />
+<input type="hidden" name="NRP" value="" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="not Draft|Closed" />
+<input type="hidden" name="weblog" value="articles" />
+<input type="hidden" name="search_in" value="everywhere" />
+<input type="hidden" name="where" value="all" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+	<input type="text" name="keywords" id="keywords" class="textfield" value="" size="18" maxlength="100" />
+	<input type="submit" value="submit" class="submit" />
+</form>
+			</div>
+		</div>
+
+		<div id="footer">
+			<div class="copyright">&copy; 2008 NewWest, All Rights Reserved</div>
+			<div id="bottom-nav">
+			         <ul id="top-login">
+					<li id="top1"><a href="http://www.newwest.net/">Front Page</a></li>
+					<li id="top2"><a href="http://www.newwest.net/plain/entry/13/">About Us</a></li>
+					<li id="top9"><a href="http://www.newweststudio.com/" title="New West Studio Marketing and Design">New West Studio</a></li>
+					<li id="top3"><a href="http://www.newwest.net/plain/contact/16/">Contact Us</a></li>
+					<li id="top4"><a href="http://www.newwest.net/plain/entry/14/">Advertise</a></li>
+					<li id="top5"><a href="http://www.newwest.net/newsletter/signup/">Newsletters</a></li>
+					<li id="top6"><a href="http://www.newwest.net/plain/entry/32/">Feeds</a></li>
+
+			         					<li id="top7"><a href="http://www.newwest.net/main/login/">Log In</a></li>
+			         					<li id="top8" class="button-link rss-link"><a href="http://feeds.feedburner.com/newwest/main">Feed</a></li>
+					<li class="button-link facebook-link"><a href="http://www.newwest.net/facebook">Facebook</a></li>
+					<li class="button-link twitter-link"><a href="http://www.newwest.net/twitter">Twitter</a></li>
+
+				</ul>
+			</div>
+		</div>
+<p class="copyright">&copy; 2011 NewWest, All Rights Reserved. Use of this site is subject to New West's <a href="http://www.newwest.net/plain/entry/terms_of_service/">Terms of Service</a> and <a href="http://www.newwest.net/plain/entry/privacy_policy/">Privacy Policy</a>.</p>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-739126-1";
+urchinTracker();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-15bjRpRF2r8e-";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-15bjRpRF2r8e-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-15bjRpRF2r8e-.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+
+
+
+	</div> <!-- End Container -->
+</div> <!-- wrapper -->
+</body>
+</html>

@@ -5,7 +5,7 @@
 
 (defmacro slow
   [form]
-  `(do (Thread/sleep 600) ~form))
+  `(do (Thread/sleep 5000) ~form))
 
 (def base-url "http://www.newwest.net/main/author_archive/jlowercase/")
 
@@ -28,8 +28,10 @@
       (.replaceAll "[^a-zA-Z0-9_]" "")
       (.replaceAll "_+" "_")))
 
-(def print-links  (set (filter #(substring? "print" %)
-                               (map #(-> :attrs % :href) links))))
+(def print-links
+  (set (filter #(and (substring? "print" %)
+                     (substring? "newwest" %))
+               (map #(-> :attrs % :href) links))))
 
 (defn my-subs [s b e]
   (if (>= (.length s) e)
